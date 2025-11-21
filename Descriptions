@@ -1,0 +1,2 @@
+The Sec_Simplified_ZPP.m file is the simplified model used in my paper.
+It can be applied to different system by adjusting all required parameters (does not need to fill in matrix)
